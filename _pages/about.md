@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Me"
+title: "Hi Hi Hi"
 ---
 
 I am currently a Data Scientist at [Decode_M](https://www.decode-m.com/) where I work on a variety of projects related to market research, often involving conversational analysis in massive natural language corpora. 
