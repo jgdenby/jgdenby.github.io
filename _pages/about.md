@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am currently a Data Scientist at [Decode_M](https://www.decode-m.com/) where I work on a variety of projects related to market research, often involving conversational analysis in massive natural language corpora. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In the summer of 2019 I graduated with a [Masters in Computational Social Science](https://macss.uchicago.edu/) from the University of Chicago. While there, I worked in a [developmental psychology lab](https://callab.uchicago.edu/index.html) studying early language learning. For my thesis, I assisted in implementing a hierarchical Bayesian model of linguistic alignment, arguably a critical component in the scaffolding of early language abilities. See a published version [here](../assets/files/denby_cogsci2019.pdf).
