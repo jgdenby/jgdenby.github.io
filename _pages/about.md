@@ -1,6 +1,8 @@
 ---
-permalink: /about/
+permalink: /
 title: "Hi Hi Hi"
+layout: single
+author_profile: true
 ---
 
 I am currently a Data Scientist at [Decode_M](https://www.decode-m.com/) where I work on a variety of projects related to market research, often involving conversational analysis in massive natural language corpora. 
