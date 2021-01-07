@@ -41,10 +41,10 @@ include:
   - _pages
 
 analytics:
-provider: "google-universal"
-google:
-  tracking_id: "UA-160638636-1"
-  anonymize_ip: false # default
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-160638636-1"
+    anonymize_ip: false # default
 
 
 # Exclude from processing.
